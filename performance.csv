@@ -1,0 +1,13 @@
+filename,file_size,duration_seconds
+test.txt,20,0.0042
+test.txt,20,0.0051
+test.txt,20,0.0038
+medium.txt,500,0.0125
+medium.txt,500,0.0142
+medium.txt,500,0.0118
+large.txt,2000,0.0284
+large.txt,2000,0.0312
+large.txt,2000,0.0295
+xlarge.txt,5000,0.0651
+xlarge.txt,5000,0.0713
+xlarge.txt,5000,0.0687
